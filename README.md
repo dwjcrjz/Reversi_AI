@@ -1,4 +1,4 @@
-# AI_first_project
+# Reversi AI
 Alpha_Beta and evalution
 
 reversi1.py is the first version
